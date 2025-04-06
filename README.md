@@ -27,10 +27,3 @@
 
 
 
-
-### 📄 License  
-- 🆓 Open source under the **MIT License**  
-
----
-
-Let me know if you want me to format it for Markdown (`README.md`) or if you'd like to generate it automatically!
